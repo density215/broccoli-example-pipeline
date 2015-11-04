@@ -1,10 +1,10 @@
 **example broccoli pipeline with ES6 modules w/ loader.js and jquery w/ npm**
 
-REQUIREMENTS
+#Requirements#
 
 - node.js >12.0
 
-INSTALLATION
+#Installation#
 
 ```
 cd <PATH>/broccoli-example-pipeline
@@ -13,7 +13,7 @@ npm install
 
 probably setting up broccoli globally is a good idea with `npm install -g broccoli`.
 
-USAGE
+#Usage#
 
 `broccoli serve` sets up a dev node server that does all the build steps on the fly and that can auto-reload on changes (with watchman, not included in this example).
 
