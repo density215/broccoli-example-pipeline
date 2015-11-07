@@ -2,7 +2,7 @@
 
 #Requirements#
 
-- node.js >12.0
+- node.js >0.12
 
 #Installation#
 
